@@ -2,5 +2,9 @@
 
 Project repository contains:
 
-'NFT traits' - the code aspect of the project. This is the main aspect and aim for the project. 
-There is also 'extention name' folder for further development and testing. 
+The 'NLP Project-NFTs-traits-original-Copy2.ipynb' notebook, which is the main aspect of the project. 
+
+There are also extensions I wanted to try out. Having found that 'Textgenrrn' was giving me some results, the following notebooks are an extension with this LSTM. 
+
+'NLP-Project-cryptopunks-textgenrrn-extn.ipynb' is an extension of the project work using the 'Cryptopunks' collection.
+'NLP-Project-pudgypenguins-textgenrrn-extn.ipynb' is an extension of the project work using the 'Pudgy Penguins' collection. 
